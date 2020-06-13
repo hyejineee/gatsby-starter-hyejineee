@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR|Song+Myung&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Gothic+A1&display=swap');
+@import url("http://cdn.jsdelivr.net/gh/wan2land/d2coding/d2coding-full.css");
+body {margin:0;padding:0;background-color:#fff;}
+
+hr {display:none;clear:both;}
+img,fieldset {border:0 none;}
+h1,h2,h3,h4,h5,dl,dt,dd,ul,li,ol,th,td,p,blockquote,form,fieldset,legend {margin:0;padding:0;}
+ul,li{list-style-type: none; }
+table {border-collapse:collapse;border:0 none;}
+form, p {margin: 0px;}
+button {margin:0;padding:0;border:0 none;background:transparent;*overflow:visible;cursor:pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a:link {color:#222222; text-decoration:none;}
+a:visited {columns: #222222;; text-decoration:none;}
+a:active {color:#222222; text-decoration:none;}
+a:hover {color:#222222; text-decoration:none;}
+body,table,th,td,input,select,textarea,div {
+font-family: "굴림","verdana";
+font-size: 12px;
+color: #333;
+font-style: normal;
+margin:0;
+word-spacing:-1pt;
+word-break:break-all;
+} 
