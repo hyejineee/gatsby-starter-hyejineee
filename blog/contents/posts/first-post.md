@@ -9,3 +9,10 @@ summary: "You can create your own blog with Gatsby!"
     
 # Hi!
 hell0
+
+코드 🙇🏻
+```js
+const hello = ()=>{
+    console.log("hello")
+}
+```
