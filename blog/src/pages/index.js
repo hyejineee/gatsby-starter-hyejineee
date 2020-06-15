@@ -12,7 +12,7 @@ const IndexPage = () =>{
 
   return (
     <Layout>
-       <SEO title="Home" />
+      <SEO title="Home" />
       <PostList posts={edges} />
     </Layout>
   );
